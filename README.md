@@ -104,7 +104,7 @@ To promote transparency and reproducibility, the dataset was cleaned, documented
 
 ---
 
-## 🏁 Conclusion
+##  Conclusion
 
 This project successfully demonstrates the application of CRISP-DM principles in a real-world e-commerce scenario. It delivers a fully functional pricing prediction system that is not only accurate but also explainable and business-relevant. With ethical data handling and model fairness at its core, this solution holds promise for wider deployment in intelligent retail systems.
 
